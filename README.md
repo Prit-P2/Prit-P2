@@ -1,48 +1,24 @@
-# 👋 Hi, I'm Prit-P2!
+# 💫 About Me:
+I'm a student<br>I'm pursuing Computer Engineering Degree<br>I'm very well with python and Meshine learning <br>
 
-## 🚀 About Me
-I'm an enthusiastic **Python and AI Developer** with a broad toolkit spanning web development, automation, and problem-solving. I love building smart solutions—from intelligent bots to full-stack web apps—using a variety of modern technologies.
 
----
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/drMDhPNn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/prit-tandel-0450a8257?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@user-vl6zb5uj8h?si=lAfn0BG3EbD9nNLo) 
 
-## 💻 Skills & Technologies
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Prit-P2&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Prit-P2&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Prit-P2&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🐍 Python & AI
-- **Python Libraries:**  
-  `OpenCV`, `Django`, `Tkinter`, `scikit-learn`, `pandas`, `numpy`
-- **AI & Machine Learning:**  
-  Data analysis, model building, computer vision, automation
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Prit-P2&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🤖 Bots & Automation
-- **Discord Bot Development:**  
-  Creating interactive and modular bots for Discord communities
-
-### 🌐 Web Development
-- **Frontend:**  
-  `HTML`, `CSS`, `JavaScript`
-- **Backend:**  
-  `Django` (Python)
-
-### 👨‍💻 Problem Solving & Algorithms
-- **C Programming:**  
-  Strong foundation in problem-solving and data structures
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Prit-P2&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Prit-P2&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ What I Can Do
-- Build and deploy Python web applications
-- Develop intelligent bots and automation scripts
-- Apply data science techniques for real-world insights
-- Design interactive GUIs in Python
-- Create responsive websites with modern frontend technologies
-- Solve algorithmic and programming challenges in C
-
----
-
-## 📫 Let's Connect!
-Feel free to reach out to collaborate or discuss exciting projects:
-- [Prit-P2](https://github.com/Prit-P2)
-
----
-
-_Always learning. Always building._
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
